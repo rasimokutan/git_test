@@ -19,6 +19,8 @@ def en_az_bulunan_karakterleri_bul(girdi_metin):
 kullanici_girdisi = input("Bir metin girin: ")
 en_az_bulunan_karakterleri_bul(kullanici_girdisi)
 
+print("test for push to github")
+
 """
 def en_cok_bulunan_karakteri_bul(girdi_metin):
     # Boşlukları kaldır
